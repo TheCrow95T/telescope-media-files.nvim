@@ -1,3 +1,7 @@
+# Disclaimer
+This is fork from https://github.com/nvim-telescope/telescope-media-files.nvim
+To remove the copy file path functionality
+
 # Telescope-media-files.nvim
 Preview images, pdf, epub, video, and fonts from Neovim using Telescope.
 
